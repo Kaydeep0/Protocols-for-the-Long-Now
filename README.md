@@ -17,6 +17,19 @@ Repository: https://github.com/Kaydeep0/Protocols-for-the-Long-Now
 For commercial licensing: kiran@oxfordprioritymortgage.com or kaur@conformingcredit.org  
 Website: https://conformingcredit.org
 
+## Submit to Long Now (Lab 001.1)
+
+**Start here:** [FORM_SUBMISSION.md](FORM_SUBMISSION.md) — copy-paste guide for every Google Form field.
+
+| File | Use |
+|------|-----|
+| [CONCEPT_500_WORDS.md](CONCEPT_500_WORDS.md) | Paste into **Your concept** (414 words) |
+| [SUPPORTING_MEDIA.md](SUPPORTING_MEDIA.md) | Prototype description + upload checklist |
+| [supporting/PROTOTYPE_AND_FIGURES.pdf](supporting/PROTOTYPE_AND_FIGURES.pdf) | Combined figures + prototype (single upload option) |
+| `figures/01-07_*` | Individual panel uploads |
+
+Long essay (reference only, too long for form): [SUBMISSION_The_Tick_Protocol.md](SUBMISSION_The_Tick_Protocol.md)
+
 ## Contents
 
 | File | Purpose |

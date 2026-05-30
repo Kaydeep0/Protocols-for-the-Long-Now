@@ -22,7 +22,9 @@ Civilizations mark time with clocks; The Tick Protocol marks time with ordered d
 
 ---
 
-## Essay
+## Essay (long form, reference)
+
+**For the Google Form:** use [CONCEPT_500_WORDS.md](CONCEPT_500_WORDS.md) instead (500-word limit).
 
 We keep time with clocks. Clocks answer one question well: how much duration passed between two moments? They answer a harder question poorly: what happened, in what order, and can anyone prove it later?
 
