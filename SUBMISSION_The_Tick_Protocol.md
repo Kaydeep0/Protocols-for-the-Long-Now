@@ -109,7 +109,9 @@ Implementation: HelixHash v1.0.0 (github/pip), GeniusFlow engine (research proto
 
 ## Contact
 
-[Add email before submit]
+Kirandeep Kaur  
+Email: kiran@oxfordprioritymortgage.com, kaur@conformingcredit.org  
+Website: https://conformingcredit.org
 
 ## Attachments
 

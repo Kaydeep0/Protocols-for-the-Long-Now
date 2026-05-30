@@ -14,7 +14,8 @@ Repository: https://github.com/Kaydeep0/Protocols-for-the-Long-Now
 - **Commercial use is prohibited** without a separate written license from Kirandeep Kaur.
 - Long Now Foundation and Protocol Institute receive a **limited, non-commercial, Lab 001.1-only** license for Program evaluation and related non-commercial publication, as described in LICENSE.
 
-For commercial licensing: contact the author (see SUBMISSION_The_Tick_Protocol.md).
+For commercial licensing: kiran@oxfordprioritymortgage.com or kaur@conformingcredit.org  
+Website: https://conformingcredit.org
 
 ## Contents
 
@@ -26,11 +27,10 @@ For commercial licensing: contact the author (see SUBMISSION_The_Tick_Protocol.m
 
 ## Before you submit
 
-1. Add contact email in `SUBMISSION_The_Tick_Protocol.md`
-2. Optional: capture hourglass screenshot from GeniusFlow dashboard and save as `figures/08_hourglass_landauer_floor.png`
-3. Copy **one-sentence summary** and **title** into the Long Now form
-4. Upload figures or combine into one PDF if the form requires a single file
-5. Confirm word limit on the Learn More page and trim essay if needed
+1. Optional: capture hourglass screenshot from GeniusFlow dashboard and save as `figures/08_hourglass_landauer_floor.png`
+2. Copy **one-sentence summary** and **title** into the Long Now form
+3. Upload figures or combine into one PDF if the form requires a single file
+4. Confirm word limit on the Learn More page and trim essay if needed
 
 ## Form field cheat sheet
 
