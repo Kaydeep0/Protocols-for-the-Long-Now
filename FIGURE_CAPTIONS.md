@@ -1,5 +1,7 @@
 # Figure captions: The Tick Protocol
 
+Copyright (c) 2026 Kirandeep Kaur. All rights reserved. See LICENSE.
+
 One-page visual strip for Lab 001.1 Book of Time submission.  
 Order is intentional. Read left to right, or top to bottom.
 

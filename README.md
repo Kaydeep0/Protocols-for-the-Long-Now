@@ -1,7 +1,20 @@
-# Long Now Book of Time submission package
+# Protocols for the Long Now
 
-**Lab 001.1: The Tick Protocol**  
+**Lab 001.1 Book of Time submission: The Tick Protocol**  
+Long Now Foundation × Protocol Institute  
 Deadline: Jun 5, 02026
+
+Repository: https://github.com/Kaydeep0/Protocols-for-the-Long-Now
+
+## License
+
+**All Rights Reserved.** This work is not open source.
+
+- Personal, educational, and non-commercial viewing/sharing of this repository is permitted under the terms in [LICENSE](LICENSE).
+- **Commercial use is prohibited** without a separate written license from Kirandeep Kaur.
+- Long Now Foundation and Protocol Institute receive a **limited, non-commercial, Lab 001.1-only** license for Program evaluation and related non-commercial publication, as described in LICENSE.
+
+For commercial licensing: contact the author (see SUBMISSION_The_Tick_Protocol.md).
 
 ## Contents
 

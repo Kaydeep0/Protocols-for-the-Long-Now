@@ -1,21 +1,134 @@
-MIT License
+PROPRIETARY LICENSE
+All Rights Reserved
 
-Copyright (c) 2026 Kdeep
+Copyright (c) 2026 Kirandeep Kaur ("Licensor"). All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This repository and all materials in it, including without limitation text,
+essays, concepts, diagrams, figures, images, captions, metadata, and any
+derivative expression of The Tick Protocol (collectively, the "Work"), are
+protected by copyright and other intellectual property laws.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+No license is granted by default. Except as expressly stated below, you may
+not use the Work without prior written permission from the Licensor.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+
+1. RESERVED RIGHTS
+
+The Licensor retains exclusive rights to the Work, including but not limited
+to:
+
+  (a) reproduction and distribution;
+  (b) public display and public performance;
+  (c) creation of derivative works;
+  (d) commercial use, licensing, and sublicensing;
+  (e) use in products, services, protocols, standards, publications for
+      sale, or any revenue-generating activity;
+  (f) use of the name "The Tick Protocol," "Tick Protocol," "HelixHash,"
+      or related marks in connection with commercial offerings.
+
+All rights not expressly granted in this document are reserved.
+
+
+2. LIMITED NON-COMMERCIAL PERMISSION (PUBLIC REPOSITORY VIEWING)
+
+You may view, download, and share unmodified copies of the Work from this
+public repository solely for personal, educational, scholarly, or
+non-commercial research purposes, provided that:
+
+  (a) you retain all copyright notices and this license;
+  (b) you do not use the Work for commercial purposes;
+  (c) you do not imply endorsement, partnership, or authorship by the
+      Licensor beyond accurate attribution; and
+  (d) you do not remove or alter proprietary notices.
+
+This permission does not allow republication in paid materials, commercial
+products, commercial protocols, advertising, or any use intended to generate
+revenue, whether direct or indirect.
+
+
+3. LONG NOW FOUNDATION AND PROTOCOL INSTITUTE (LAB 001.1 ONLY)
+
+The Work was prepared for submission to Long Now Foundation and Protocol
+Institute, Lab 001.1: Book of Time ("the Program").
+
+The Licensor grants the Long Now Foundation and Protocol Institute a
+limited, non-exclusive, royalty-free, non-transferable, non-sublicensable
+license to use the submitted materials solely for Program-related purposes,
+including evaluation, jury review, internal discussion, archival reference,
+and non-commercial display or publication connected to Lab 001.1 and the
+Book of Time initiative.
+
+This Program license does NOT include:
+
+  (a) commercial exploitation, productization, or sale of the Work;
+  (b) sublicensing to third parties for commercial use;
+  (c) use outside the scope of Lab 001.1 / Book of Time without separate
+      written agreement with the Licensor;
+  (d) assignment of copyright or ownership in the Work to any party.
+
+If the Work is selected, exhibited, or published by the Program, such use
+remains subject to this section and does not transfer commercial rights to
+any party.
+
+
+4. PROHIBITED USES (WITHOUT WRITTEN PERMISSION)
+
+Without prior written authorization from the Licensor, you may NOT:
+
+  (a) use the Work, in whole or in part, for any commercial purpose;
+  (b) sell, license, or sublicense the Work or access to it;
+  (c) incorporate the Work into commercial software, hardware, services,
+      protocols, standards, courses, books, media, or merchandise;
+  (d) create derivative works for commercial distribution;
+  (e) use the Work to train, fine-tune, or evaluate commercial AI systems
+      or datasets, or to generate competing commercial products;
+  (f) remove copyright notices, license terms, or attribution;
+  (g) misrepresent authorship, origin, or licensing status.
+
+
+5. COMMERCIAL LICENSING
+
+Commercial use, commercial derivatives, exclusive arrangements, and any use
+beyond the limited permissions above require a separate written commercial
+license from the Licensor.
+
+For commercial licensing inquiries:
+
+  Kirandeep Kaur
+  [Add contact email]
+
+
+6. ATTRIBUTION
+
+When sharing permitted non-commercial copies, attribution must include:
+
+  "The Tick Protocol" by Kirandeep Kaur (c) 2026. All rights reserved.
+  See LICENSE in https://github.com/Kaydeep0/Protocols-for-the-Long-Now
+
+
+7. NO WARRANTY
+
+THE WORK IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE LICENSOR SHALL
+NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM USE
+OF THE WORK EXCEPT WHERE LIABILITY CANNOT BE EXCLUDED BY LAW.
+
+
+8. ENFORCEMENT
+
+Unauthorized use may result in termination of any limited permission
+granted here and may be pursued under applicable copyright, trademark,
+contract, and other intellectual property laws. The Licensor reserves all
+remedies available at law and in equity.
+
+
+9. GOVERNING INTERPRETATION
+
+This license is the entire agreement regarding use of the Work in this
+repository. If any provision is unenforceable, the remaining provisions
+remain in effect. No waiver of any term is a waiver of any other term or
+of the same term on a future occasion.
+
+For questions about permitted use, contact the Licensor before using the
+Work beyond personal non-commercial viewing of this repository.

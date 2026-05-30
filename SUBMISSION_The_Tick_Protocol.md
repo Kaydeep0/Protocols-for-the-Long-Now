@@ -5,6 +5,9 @@ Long Now Foundation × Protocol Institute
 Submitted: 02026  
 Author: Kirandeep Kaur
 
+Copyright (c) 2026 Kirandeep Kaur. All rights reserved.  
+Commercial use prohibited without written license. See [LICENSE](LICENSE).
+
 ---
 
 ## Concept title
