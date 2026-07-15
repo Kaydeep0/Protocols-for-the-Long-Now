@@ -1,6 +1,6 @@
 # Protocols for the Long Now
 
-**Institution role (Node 34539544):** Tick Protocol / long-now time concept — not GeniusFlow runtime. Engine  borrows the framing. Full map: [sangat-architecture/INSTITUTION_REPOSITORY_MAP.md](https://github.com/Kaydeep0/sangat-architecture/blob/main/INSTITUTION_REPOSITORY_MAP.md).
+**Institution role (Node 34539544):** Tick Protocol / long-now time concept — not GeniusFlow runtime. Engine `time_anchor` borrows the framing. Full map: [sangat-architecture/INSTITUTION_REPOSITORY_MAP.md](https://github.com/Kaydeep0/sangat-architecture/blob/main/INSTITUTION_REPOSITORY_MAP.md).
 
 
 **Lab 001.1 Book of Time submission: The Tick Protocol**  
